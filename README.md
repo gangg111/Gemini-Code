@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="cnURAz5DkH-vEKRWmEqEfzILfhlvi86xB2bC82jbdao" />
+
 <p align="center">
   <img src="https://github.com/gangg111/Gemini-Code/blob/main/logo2.png?raw=true" alt="Gemini-Code Logo" width="600"/>
 </p>
