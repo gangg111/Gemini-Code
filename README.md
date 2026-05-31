@@ -12,7 +12,7 @@ This project uses Google OAuth 2.0. Upon the first execution, a `token.json` fil
 \## ⚖️ License
 This project is provided under a \*\*Non-Commercial\*\* license. For full details, please refer to the \[LICENSE](LICENSE.md) file.
 
-\-------------------------------------------------------------------------------------------------------------------------------------------
+\-----------------------------------------------------------------------------------------------------------------------------------
 
 \# Gemini-Code
 Zaawansowane narzędzie agentowe wykorzystujące moc modeli Gemini w Twoim środowisku deweloperskim.
