@@ -2,7 +2,7 @@
   <img src="https://github.com/gangg111/Gemini-Code/blob/main/logo2.png?raw=true" alt="Gemini-Code Logo" width="600"/>
 </p>
 
-\# Gemini-Code
+\# Gemini-Code Agent
 An advanced agentic tool leveraging the power of Gemini models within your development environment.
 
 \## 🚀 Installation
@@ -18,7 +18,7 @@ This project is provided under a \*\*Non-Commercial\*\* license. For full detail
 
 \-----------------------------------------------------------------------------------------------------------------------------------
 
-\# Gemini-Code
+\# Gemini-Code Agent
 Zaawansowane narzędzie agentowe wykorzystujące moc modeli Gemini w Twoim środowisku deweloperskim.
 
 \## 🚀 Instalacja
